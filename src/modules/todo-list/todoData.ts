@@ -1,0 +1,80 @@
+export const todoData = [
+  {
+    userId: "1",
+    id: "1",
+    text: "delectus aut autem",
+    done: true,
+  },
+  {
+    userId: "1",
+    id: "2",
+    text: "quis ut nam facilis et officia qui",
+    done: false,
+  },
+  {
+    userId: "1",
+    id: "4",
+    text: "et porro tempora",
+    done: true,
+  },
+  {
+    userId: "1",
+    id: "6",
+    text: "qui ullam ratione quibusdam voluptatem quia omnis",
+    done: false,
+  },
+  {
+    userId: "1",
+    id: "8",
+    text: "quo adipisci enim quam ut ab",
+    done: true,
+  },
+  {
+    userId: "1",
+    id: "9",
+    text: "molestiae perspiciatis ipsa",
+    done: false,
+  },
+  {
+    userId: "1",
+    id: "10",
+    text: "illo est ratione doloremque quia maiores aut",
+    done: true,
+  },
+  {
+    userId: "2",
+    id: "21",
+    text: "suscipit repellat esse quibusdam voluptatem incidunt",
+    done: false,
+  },
+  {
+    userId: "2",
+    id: "22",
+    text: "distinctio vitae autem nihil ut molestias quo",
+    done: true,
+  },
+  {
+    userId: "2",
+    id: "23",
+    text: "et itaque necessitatibus maxime molestiae qui quas velit",
+    done: false,
+  },
+  {
+    userId: "2",
+    id: "24",
+    text: "adipisci non ad dicta qui amet quaerat doloribus ea",
+    done: false,
+  },
+  {
+    userId: "2",
+    id: "25",
+    text: "voluptas quo tenetur perspiciatis explicabo natus",
+    done: true,
+  },
+  {
+    userId: "2",
+    id: "26",
+    text: "aliquam aut quasi",
+    done: true,
+  },
+];
