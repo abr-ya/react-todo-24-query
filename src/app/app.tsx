@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Error404, Home, List, Product } from "@pages/index";
 
-const App = () => (
+export const App = () => (
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />} />
@@ -11,5 +11,3 @@ const App = () => (
     </Routes>
   </BrowserRouter>
 );
-
-export default App;
